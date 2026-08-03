@@ -1,0 +1,74 @@
+Quick Image Stitcher — Non-Commercial License
+Version 1.0
+
+Copyright (c) 2026 <YOUR NAME HERE>. All rights reserved.
+
+1. DEFINITIONS
+
+   "Software" means the source code, build scripts, documentation and any
+   compiled executables distributed under this license.
+
+   "Commercial Use" means any use of the Software that is primarily intended
+   for or directed toward commercial advantage or monetary compensation.
+   This includes, without limitation:
+     (a) using the Software in the course of operating a business, or to
+         produce images or other output used in a product or service that is
+         sold, licensed, or otherwise monetised;
+     (b) selling, renting, licensing, or sublicensing the Software, whether
+         alone or bundled with anything else;
+     (c) distributing the Software as part of a paid, subscription, ad-
+         supported, or otherwise revenue-generating offering;
+     (d) using the Software to provide paid services to third parties.
+
+   Use by an individual for personal projects, and use for education,
+   academic research, evaluation, or by a registered non-profit in
+   furtherance of its non-profit purpose, is NOT Commercial Use.
+
+2. GRANT
+
+   Subject to the terms below, you are granted a worldwide, royalty-free,
+   non-exclusive, non-transferable license to:
+     (a) use and run the Software for any purpose that is not Commercial Use;
+     (b) copy and redistribute the Software, in source or compiled form,
+         provided it is distributed free of charge, complete and unmodified,
+         and accompanied by this license file;
+     (c) modify the Software for your own non-commercial use.
+
+3. RESTRICTIONS
+
+   (a) Commercial Use is not permitted without prior written permission from
+       the copyright holder. To request permission, contact author.
+   (b) You may not remove or alter this license, the copyright notice, or the
+       third-party notices distributed with the Software.
+   (c) You may not distribute modified versions of the Software publicly
+       without the copyright holder's written permission.
+
+4. OUTPUT
+
+   Images you create using the Software are yours. This license places no
+   restriction whatsoever on the images the Software produces, including
+   their commercial use. The restriction in section 3(a) applies to the
+   Software itself, not to its output.
+
+5. THIRD-PARTY COMPONENTS
+
+   The Software depends on, and compiled builds embed, third-party components
+   licensed separately by their respective authors. Those components are NOT
+   covered by this license and remain governed by their own terms. See
+   THIRD-PARTY-LICENSES.txt.
+
+6. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+   OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+7. TERMINATION
+
+   This license terminates automatically if you breach any of its terms. Upon
+   termination you must cease all use and destroy all copies in your
+   possession.
