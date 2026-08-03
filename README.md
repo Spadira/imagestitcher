@@ -1,4 +1,4 @@
-# Quick Image Stitcher
+# Yet Another Image Stitcher
 
 Combine any number of images onto one canvas with a configurable black
 separator bar. Built for manga/comic page spreads and multi-page scans.
